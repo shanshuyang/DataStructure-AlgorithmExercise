@@ -1,0 +1,5 @@
+﻿  linearList.c
+C:\Users\ASUS\Desktop\GitHub文件夹\DataStructure-AlgorithmExercise\LinearList\LinearList\LinearList\linearList.c(43,47): warning C4047: “:”:“void *”与“ElementType”的间接级别不同
+  Main.c
+  正在生成代码...
+  LinearList.vcxproj -> C:\Users\ASUS\Desktop\GitHub文件夹\DataStructure-AlgorithmExercise\LinearList\LinearList\Debug\LinearList.exe
