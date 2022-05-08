@@ -1,0 +1,6 @@
+﻿  Main.c
+  Vector.c
+C:\Users\ASUS\Desktop\GitHub文件夹\DataStructure-AlgorithmExercise\LinearList\Vector\Vector\Vector.c(33,64): warning C4047: “:”:“void *”与“ElementType”的间接级别不同
+  VectorApplication.c
+  正在生成代码...
+  Vector.vcxproj -> C:\Users\ASUS\Desktop\GitHub文件夹\DataStructure-AlgorithmExercise\LinearList\Vector\Debug\Vector.exe
