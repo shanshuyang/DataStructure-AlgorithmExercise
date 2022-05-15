@@ -1,5 +1,6 @@
 #pragma once
 #ifndef _Vector_H
+#define _Vector_H
 enum boolean
 {
 	FALSE,

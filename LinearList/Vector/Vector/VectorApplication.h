@@ -4,6 +4,7 @@
 #endif // !_Vector_H
 
 #ifndef _VectorApplication_H
+#define _VectorApplication_H
 Vector* Union(Vector*, Vector*);
 Vector* Insersection(Vector*, Vector*);
 /// <summary>
