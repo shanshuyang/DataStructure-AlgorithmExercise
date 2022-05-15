@@ -1,10 +1,12 @@
 #include "StackApplication.h"
+#include <stdlib.h>
+#include <stdio.h>
 
 //后缀表达式计值
 void EvaluatePostfix()
 {
 	Stack* Spnd = (Stack*)malloc(sizeof(Stack));
-	char buf[80];
+	char buf[80] = { '/0' };
 	int i = 0, k;
 
 	InitStack(Spnd, 80);
@@ -46,7 +48,7 @@ void EvaluatePostfix()
 void ChangeInfillToPostfix()
 {
 	Stack* Sptr = (Stack*)malloc(sizeof(Stack));
-	char buf[80];
+	char buf[80] = { '/0' };
 	char result[80] = { '/0' };
 	int i = 0, j = 0, k;
 

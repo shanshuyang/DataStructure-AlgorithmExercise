@@ -1,4 +1,6 @@
 #include "Stack.h"
+#include <stdio.h>
+#include <stdlib.h>
 
 //创建栈空间，生成一个空栈
 void InitStack(Stack* S, int sz)

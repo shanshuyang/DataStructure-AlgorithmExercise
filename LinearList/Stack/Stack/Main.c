@@ -1,5 +1,7 @@
 #include "Stack.h"
 #include "StackApplication.h"
+#include <stdio.h>
+#include <stdlib.h>
 
 int main()
 {

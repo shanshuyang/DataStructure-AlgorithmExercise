@@ -1,7 +1,6 @@
 #pragma once
 #ifndef _Stack_H
-#include <stdio.h>
-#include <stdlib.h>
+#define _Stack_H
 enum boolean
 {
 	FALSE,
