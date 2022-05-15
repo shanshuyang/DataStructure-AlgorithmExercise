@@ -1,5 +1,6 @@
 #pragma once
 #ifndef _LinearList_H
+#define _LinearList_H
 enum boolean
 {
 	FALSE,
